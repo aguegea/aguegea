@@ -42,13 +42,3 @@ Soy estudiante de platzi y hasta ahora llevo realizados 19 cursos de programacio
 Tambien pueden ver mis certificados en desarrollo nativo en android en mi LinkedIn
 
 Actualmente no estoy buscando trabajo. Pero estoy abierto a escuchar cualquier oferta laboral.
-
-  ## **Github stats**
-<br />
-
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomiholtz&show_icons=true&theme=gotham"  />
-</p>
-<a >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomiholtz&layout=compact&theme=dark" />
-</a>
