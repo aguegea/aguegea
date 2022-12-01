@@ -2,43 +2,15 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/agustin-egea/">
-  <img align="left" alt="Personal LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+**My name is Agustín, and I am a Software Developer.**
 
-<br /><br />
+I am passionate about Open-Source technologies, dedicated to everything related to web3 and Ethereum. I am in constant formation, always looking for new projects in which I can contribute and expand my knowledge.
 
-**My name is Agustín, and I am FrontEnd Developer**
-
-These are the frameworks, languages and technologies that I use the most:
-
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> Dart 
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>  Flutter
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> Firebase (Auth/Cloud/Storage) 
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> Android Native Development
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git & Github
-- <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"></code> Adobe Illustrator
-
-I am a student at Platzi. I have completed 19 courses about development and UI & UX. You can see my certificates in my Platzi [profile](http://platzi.com/p/tomas-holtz "perfil")
-
-You can also see my certificates in Android development in LinkedIn.
-
+I’m not currently looking for a job, but I’m always open to hearing any job offers.
 <br />
 
-**Mi nombre es Agustín, soy Desarrollador FrontEnd**
+**Mi nombre es Agustín, soy un Desarrollador de Software.**
 
-Estoy en constante formacion, los lenguajes y tecnologias que mejor domino actualmente son estas:
+Soy un apasionado por las tecnologías Open-Source, abocado a todo lo relacionado con web3 y Ethereum. Estoy en constante formación, siempre buscando nuevos proyectos en los cuales contribuir y poder expandir mis conocimientos.
 
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> Dart 
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>  Flutter
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> Firebase (Auth/Cloud/Storage) 
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> Desarrollo Nativo en Android 
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git y Github
-- <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"></code> Adobe Illustrator
-
-
-Soy estudiante de platzi y hasta ahora llevo realizados 19 cursos de programacion y diseño. Pueden ver dichos certificados en mi [perfil](http://platzi.com/p/tomas-holtz "perfil")
-
-Tambien pueden ver mis certificados en desarrollo nativo en android en mi LinkedIn
-
-Actualmente no estoy buscando trabajo. Pero estoy abierto a escuchar cualquier oferta laboral.
+Actualmente no estoy buscando trabajo, pero siempre estoy abierto a escuchar cualquier oferta laboral.
