@@ -2,8 +2,6 @@
 
 <br />
 
-My name is **Agustin** and I am a software developer, excited about the possibility of making the world more free and fair from a computer. 
-
-I’m not currently looking for work, but I’m always open to hearing about new projects to contribute ;)
+My name is **Agustin** and I am a software developer, excited about the possibility of making the world more free and fair from a computer.
 
 <br />
